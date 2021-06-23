@@ -1,19 +1,12 @@
-//DIVISIÓN DE LAS MATRICES// le toco a kerly nieves
-
-if(c==4)
+/RESTA DE LAS MATRICES// le toco a josue lastra
+if(c==2)
 
 {
-	cout<<"USTED A ESCOGIDO LA  DIVISION\n\n";
+	cout<<"USTED A ESCOGIDO LA RESTA\n\n";
 	cout<<"EL RESULTADO ES:\n\n";
 	for (int i=0;i<10;i++)
 {
-	division[i]=matriz1[i]/matriz2[i];
-	cout<<division[i]<<"\n";
+	resta[i]=matriz1[i]-matriz2[i];
+	cout<<resta[i]<<"\n";
 }
-}
-
-
-
-return 0;
-
 }
